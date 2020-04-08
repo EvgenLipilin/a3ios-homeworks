@@ -1,1 +1,5 @@
-# a3ios-homeworks
+1. [Работа с RunLoop](https://github.com/netology-code/a3ios-homeworks/tree/master/1)
+
+1. [Brute force GCD](https://github.com/netology-code/a3ios-homeworks/tree/master/2)
+
+1. [Курсовое задание](https://github.com/netology-code/a3ios-homeworks/tree/master/Final%20Task)
