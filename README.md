@@ -6,5 +6,5 @@
 
 1. [Курсовое задание](https://github.com/netology-code/a3ios-homeworks/tree/master/Final%20Task)
 
-[Материалы из дополнительных разборов](https://github.com/netology-code/a3ios-homeworks/tree/master/Materials)
+[Дополнительные материалы](https://github.com/netology-code/a3ios-homeworks/tree/master/Materials)
 
