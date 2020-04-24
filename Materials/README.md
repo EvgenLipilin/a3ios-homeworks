@@ -10,4 +10,4 @@
 https://developer.apple.com/documentation/foundation/operationqueue
 1. [Вебинар 15.04 Operation Часть 1]( https://drive.google.com/open?id=1IEB-SFMnVP_rwGWW6orxBdGh7JXaY4_v) и
 [Ссылки с вебинара 15.04 Часть 2](https://drive.google.com/open?id=1Gx5DUIwutrp1XmJrgxBuFAvFkTHw2WkN)
-1. 
+
